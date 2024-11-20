@@ -1,28 +1,15 @@
 # Test
 
-测试文件
-
-## 目录
-
-- [简介](#简介)
-- [功能](#功能)
-- [安装](#安装)
-- [使用](#使用)
-- [贡献](#贡献)
-- [许可证](#许可证)
+1
 
 ## 简介
 
 这是一个测试文件
 
-## 功能
+[原实验链接](https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/tree/main?tab=readme-ov-file)
 
-- **任务创建**：用户可以添加新任务，设置任务名称、优先级和到期日期。
-- **任务编辑**：用户可以编辑现有任务的细节。
-- **任务跟踪**：任务会根据状态进行跟踪（如：待完成、进行中、已完成）。
-- **提醒功能**：当任务接近截止日期时，会发送提醒通知。
+## 测试图
+![测试图](https://img.chkaja.com/ebe166dc05f4ed38.png)
 
-
-[原实验](https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/tree/main?tab=readme-ov-file)
 
 
