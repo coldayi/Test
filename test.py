@@ -1,3 +1,4 @@
+# 快速排序函数
 def quicksort(arr):
     if len(arr) <= 1:
         return arr
@@ -7,6 +8,6 @@ def quicksort(arr):
     right = [x for x in arr if x > pivot]
     return quicksort(left) + middle + quicksort(right)
 
-arr = [3, 6, 8, 10, 1, 2, 1]
+arr = [32, 5, 67, 567, 37, 678, 45]
 print("排序前:", arr)
 print("排序后:", quicksort(arr))
